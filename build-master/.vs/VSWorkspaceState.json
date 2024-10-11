@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "\\br-ext\\board\\fvp",
+    "\\br-ext\\board\\fvp\\overlay",
+    "\\br-ext\\board\\fvp\\overlay\\etc",
+    "\\br-ext\\board\\fvp\\overlay\\etc\\profile.d",
+    "\\br-ext\\board\\fvp\\overlay\\mnt",
+    "\\br-ext\\board\\fvp\\overlay\\mnt\\host",
+    "\\br-ext\\package\\linux_ftpm_mod_ext",
+    "\\br-ext\\package\\optee_examples_ext",
+    "\\br-ext\\package\\optee_os_ext",
+    "\\br-ext\\package\\optee_rust_examples_ext",
+    "\\br-ext\\package\\optee_test_ext"
+  ],
+  "PreviewInSolutionExplorer": false
+}

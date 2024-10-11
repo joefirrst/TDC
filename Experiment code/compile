@@ -1,0 +1,7 @@
+#compile
+gcc -o aes_encrypt_ca aes_encrypt_ca.c -lteec
+./aes_encrypt_ca input.txt output.enc
+
+
+# install PBC
+sudo apt-get install libpbc-dev

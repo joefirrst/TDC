@@ -1,0 +1,6 @@
+
+0
+java:S1220""Move this file to a named package.
+F	java:S106 "+Replace this use of System.out by a logger.(ÜÅÄ8Ó·¡Õ§2
+U
+java:S1068"3Remove this unused "contractManager" private field.(êå¤£ıÿÿÿÿ8Ù·¡Õ§2

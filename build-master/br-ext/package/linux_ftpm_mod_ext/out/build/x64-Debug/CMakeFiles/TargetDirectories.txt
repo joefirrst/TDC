@@ -1,0 +1,5 @@
+D:/vs2019code/TDC/TDC_code/build-master/br-ext/package/linux_ftpm_mod_ext/out/build/x64-Debug/CMakeFiles/install/local.dir
+D:/vs2019code/TDC/TDC_code/build-master/br-ext/package/linux_ftpm_mod_ext/out/build/x64-Debug/CMakeFiles/install.dir
+D:/vs2019code/TDC/TDC_code/build-master/br-ext/package/linux_ftpm_mod_ext/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/vs2019code/TDC/TDC_code/build-master/br-ext/package/linux_ftpm_mod_ext/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/vs2019code/TDC/TDC_code/build-master/br-ext/package/linux_ftpm_mod_ext/out/build/x64-Debug/CMakeFiles/list_install_components.dir

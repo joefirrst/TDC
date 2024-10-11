@@ -1,0 +1,14 @@
+// Solidity智能合约示例
+pragma solidity ^0.8.0;
+
+contract DataContract {
+    mapping(string => string) private dataStore;
+
+    function storeData(string memory key, string memory value) public {
+        dataStore[key] = value;
+    }
+
+    function getData(string memory key) public view returns (string memory) {
+        return dataStore[key];
+    }
+}
